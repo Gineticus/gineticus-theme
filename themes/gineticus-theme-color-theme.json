@@ -85,9 +85,9 @@
 		"tab.unfocusedInactiveForeground": "#a7a7a7",
 		// EDITOR
 		"editor.background": "#282c34",
-		"editor.foreground": "#d8dee9",
+		"editor.foreground": "#ced4df",
 		"editorLineNumber.foreground": "#88959c",
-		"editorLineNumber.activeForeground": "#d8dee9",
+		"editorLineNumber.activeForeground": "#ced4df",
 		"editorCursor.background": "#282c34",
 		"editorCursor.foreground": "#b3c0c9",
 		"editorWhitespace.foreground": "#4f5d6993",
@@ -194,7 +194,7 @@
 		"terminal.ansiBlue": "#81a1c1",
 		"terminal.ansiMagenta": "#b48ead",
 		"terminal.ansiCyan": "#88c0d0",
-		"terminal.ansiWhite": "#e5e9f0",
+		"terminal.ansiWhite": "#c5cad4",
 		"terminal.ansiBrightBlack": "#4c566a",
 		"terminal.ansiBrightRed": "#bf616a",
 		"terminal.ansiBrightGreen": "#a3be8c",
@@ -202,8 +202,8 @@
 		"terminal.ansiBrightBlue": "#81a1c1",
 		"terminal.ansiBrightMagenta": "#b48ead",
 		"terminal.ansiBrightCyan": "#8fbcbb",
-		"terminal.ansiBrightWhite": "#eceff4",
-		"terminal.foreground": "#ebebeb",
+		"terminal.ansiBrightWhite": "#c5cad4",
+		"terminal.foreground": "#c5cad4",
 		"terminal.background": "#282c34",
 		"terminalCursor.background": "#282c34",
 		// TITLE BAR macOS (not tested)
@@ -227,7 +227,7 @@
 	"tokenColors": [
 		{
 			"settings": {
-				"foreground": "#d8dee9ff",
+				"foreground": "#ced4dfff",
 			}
 		},
 		{
@@ -327,14 +327,14 @@
 			"name": "Invalid Deprecated",
 			"scope": "invalid.deprecated",
 			"settings": {
-				"foreground": "#D8DEE9",
+				"foreground": "#ced4df",
 			}
 		},
 		{
 			"name": "Invalid Illegal",
 			"scope": "invalid.illegal",
 			"settings": {
-				"foreground": "#D8DEE9",
+				"foreground": "#ced4df",
 			}
 		},
 		{
@@ -555,7 +555,7 @@
 			"name": "Variable",
 			"scope": "variable.other",
 			"settings": {
-				"foreground": "#D8DEE9"
+				"foreground": "#ced4df"
 			}
 		},
 		{
@@ -569,7 +569,7 @@
 			"name": "Variable Parameter",
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#D8DEE9"
+				"foreground": "#ced4df"
 			}
 		},
 		{
@@ -637,7 +637,7 @@
 			"name": "[CSS] Support Type Property Name",
 			"scope": "source.css support.type.property-name",
 			"settings": {
-				"foreground": "#D8DEE9"
+				"foreground": "#ced4df"
 			}
 		},
 		{
@@ -686,7 +686,7 @@
 			"name": "[Elixir](JakeBecker.elixir-ls) module attributes",
 			"scope": "variable.other.readwrite.module.elixir",
 			"settings": {
-				"foreground": "#D8DEE9",
+				"foreground": "#ced4df",
 				"fontStyle": "bold"
 			}
 		},
@@ -694,7 +694,7 @@
 			"name": "[Elixir](JakeBecker.elixir-ls) atoms",
 			"scope": "constant.other.symbol.elixir",
 			"settings": {
-				"foreground": "#D8DEE9",
+				"foreground": "#ced4df",
 				"fontStyle": "bold"
 			}
 		},
@@ -723,7 +723,7 @@
 			"name": "[Java](JavaDoc) Constant Other",
 			"scope": "source.java constant.other",
 			"settings": {
-				"foreground": "#D8DEE9"
+				"foreground": "#ced4df"
 			}
 		},
 		{
@@ -890,7 +890,7 @@
 				"source.js string.template meta.template.expression variable.other.object"
 			],
 			"settings": {
-				"foreground": "#D8DEE9"
+				"foreground": "#ced4df"
 			}
 		},
 		{
@@ -904,7 +904,7 @@
 			"name": "[JavaScript] Variable Other Object",
 			"scope": "source.js variable.other.object",
 			"settings": {
-				"foreground": "#D8DEE9"
+				"foreground": "#ced4df"
 			}
 		},
 		{
@@ -1095,7 +1095,7 @@
 			"name": "[Perl] Perl Sigils",
 			"scope": "source.perl punctuation.definition.variable",
 			"settings": {
-				"foreground": "#D8DEE9"
+				"foreground": "#ced4df"
 			}
 		},
 		{
@@ -1138,7 +1138,7 @@
 				"source.python variable.parameter.function.language"
 			],
 			"settings": {
-				"foreground": "#D8DEE9"
+				"foreground": "#ced4df"
 			}
 		},
 		{
@@ -1204,7 +1204,7 @@
 			"name": "[SCSS] Variable Interpolation",
 			"scope": "source.css.scss variable.interpolation",
 			"settings": {
-				"foreground": "#D8DEE9",
+				"foreground": "#ced4df",
 				"fontStyle": "italic"
 			}
 		},
@@ -1229,7 +1229,7 @@
 				"source.tsx meta.object-literal.key"
 			],
 			"settings": {
-				"foreground": "#D8DEE9"
+				"foreground": "#ced4df"
 			}
 		},
 		{
@@ -1279,7 +1279,7 @@
 				"source.tsx support.variable"
 			],
 			"settings": {
-				"foreground": "#D8DEE9"
+				"foreground": "#ced4df"
 			}
 		},
 		{
