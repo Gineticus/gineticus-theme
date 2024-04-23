@@ -39,7 +39,7 @@
 		"scrollbarSlider.background": "#7789a533",
 		// BADGE
 		"badge.background": "#aaaaaa",
-		"badge.foreground": "#282c34",
+		"badge.foreground": "#21252b",
 		// PROGRESS BAR
 		"progressBar.background": "#689d6a",
 		// LISTS AND TREES
@@ -65,12 +65,12 @@
 		"activityBar.background": "#282c34",
 		"activityBar.foreground": "#c5cad4",
 		"activityBar.border": "#282c34",
-		"activityBarBadge.background": "#3b95df",
+		"activityBarBadge.background": "#7098c0",
 		"activityBarBadge.foreground": "#e9e9e9",
 		"activityBar.activeBorder": "#adadad",
 		// EDITOR GROUPS
 		"editorGroup.border": "#282c34",
-		"editorGroup.dropBackground": "#31373d60",
+		"editorGroup.dropBackground": "#21252b60",
 		"editorGroupHeader.noTabsBackground": "#282c34",
 		"editorGroupHeader.tabsBackground": "#21252b",
 		"editorGroupHeader.tabsBorder": "#282c34",
@@ -81,7 +81,7 @@
 		"tab.activeBorderTop": "#b1b7bb",
 		"tab.inactiveForeground": "#a7a7a7",
 		"tab.inactiveBackground": "#21252b",
-		"tab.unfocusedActiveForeground": "#21252b",
+		"tab.unfocusedActiveForeground": "#a7a7a7",
 		"tab.unfocusedInactiveForeground": "#a7a7a7",
 		// EDITOR
 		"editor.background": "#282c34",
@@ -178,10 +178,10 @@
 		"editorBracketHighlight.foreground6": "#88c0d0",
 		"icon.foreground": "#c5cad4",
 		// STATUS BAR
-		"statusBar.background": "#aaaaaa",
+		"statusBar.background": "#a5a9ac",
 		"statusBar.border": "#36393c",
 		"statusBar.foreground": "#21252b",
-		"statusBar.debuggingBackground": "#3b95df",
+		"statusBar.debuggingBackground": "#5e81ac",
 		"statusBar.debuggingForeground": "#e9e9e9",
 		"statusBar.debuggingBorder": "#282c3400",
 		"statusBar.noFolderBackground": "#36393c",
@@ -207,9 +207,9 @@
 		"terminal.background": "#282c34",
 		"terminalCursor.background": "#282c34",
 		// TITLE BAR macOS (not tested)
-		"titleBar.activeBackground": "#282c34",
+		"titleBar.activeBackground": "#21252b",
 		"titleBar.activeForeground": "#c5cad4",
-		"titleBar.inactiveBackground": "#282c34",
+		"titleBar.inactiveBackground": "#21252b",
 		// GIT COLORS
 		"gitDecoration.modifiedResourceForeground": "#eec75d",
 		"gitDecoration.deletedResourceForeground": "#cc241d",
