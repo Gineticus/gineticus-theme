@@ -62,9 +62,9 @@
 		"sideBarSectionHeader.foreground": "#c5cad4",
 		"sideBarSectionHeader.border": "#282c34",
 		// ACTIVITY BAR
-		"activityBar.background": "#282c34",
+		"activityBar.background": "#21252b",
 		"activityBar.foreground": "#c5cad4",
-		"activityBar.border": "#282c34",
+		"activityBar.border": "#21252b",
 		"activityBarBadge.background": "#7098c0",
 		"activityBarBadge.foreground": "#e9e9e9",
 		"activityBar.activeBorder": "#adadad",
@@ -113,8 +113,8 @@
 		"editor.rangeHighlightBackground": "#434c5e52",
 		"editor.wordHighlightBackground": "#81a1c166",
 		"editor.wordHighlightStrongBackground": "#81a1c199",
-		"editor.stackFrameHighlightBackground": "#5e81ac",
-		"editor.focusedStackFrameHighlightBackground": "#5e81ac",
+		"editor.stackFrameHighlightBackground": "#53729788",
+		"editor.focusedStackFrameHighlightBackground": "#53729788",
 		"editorOverviewRuler.border": "#282c3400",
 		"editorOverviewRuler.findMatchForeground": "#8c9daae0",
 		"editorOverviewRuler.rangeHighlightForeground": "#a2b3c0bd",
@@ -184,7 +184,7 @@
 		"statusBar.debuggingBackground": "#5e81ac",
 		"statusBar.debuggingForeground": "#e9e9e9",
 		"statusBar.debuggingBorder": "#282c3400",
-		"statusBar.noFolderBackground": "#36393c",
+		"statusBar.noFolderBackground": "#a5a9ac",
 		"statusBar.noFolderBorder": "#282c3400",
 		// INTEGRATED TERMINAL
 		"terminal.ansiBlack": "#3b4252",
@@ -220,8 +220,8 @@
 		"extensionButton.prominentBackground": "#b4b4b480",
 		"extensionButton.prominentHoverBackground": "#acacac30",
 		// OTHERS
-		"textLink.foreground": "#a5a5a5",
-		"textLink.activeForeground": "#a5a5a5",
+		"textLink.foreground": "#81a1c1",
+		"textLink.activeForeground": "#5e81ac",
 		"debugToolBar.background": "#21252b"
 	},
 	"tokenColors": [

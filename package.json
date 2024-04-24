@@ -3,7 +3,7 @@
   "icon": "icon.png",
   "displayName": "Gineticus Theme",
   "description": "Gineticus custom theme for Visual Studio Code",
-  "version": "0.0.7",
+  "version": "0.0.10",
   "publisher": "Gineticus",
   "author": "Gineticus (https://github.com/Gineticus)",
   "repository": {
@@ -11,7 +11,7 @@
     "url": "https://github.com/Gineticus/gineticus-theme"
   },
   "engines": {
-    "vscode": "^1.88.0"
+    "vscode": "^1.80.0"
   },
   "categories": [
     "Themes"
