@@ -1,5 +1,12 @@
 # Change Log
 
+## v12 beta
+- change progress bar color
+
+## v11 beta
+- fix mardown code blocks vizualizzation
+- add some more things
+
 ## v10 beta
 - change link color
 - fix debug line
